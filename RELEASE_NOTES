@@ -1,0 +1,13 @@
+#Release Notes
+
+## 0.1.0-SNAPSHOT
+
+* add telegram bot
+* add springboot structure
+
+## 0.2.0-SNAPSHOT
+
+* add commands, commands container
+* add sendBotMessage service
+* add Release notes
+* add Unit-tests to service,container and commands
