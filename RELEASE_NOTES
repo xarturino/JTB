@@ -11,3 +11,7 @@
 * add sendBotMessage service
 * add Release notes
 * add Unit-tests to service,container and commands
+
+## 0.3.0-SNAPSHOT
+
+* added deployment process to the project
