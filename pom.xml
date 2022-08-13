@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.github.xarturino</groupId>
 	<artifactId>java-telegrambot</artifactId>
-	<version>0.2.0-SNAPSHOT</version>
+	<version>0.3.0-SNAPSHOT</version>
 	<name>java-telegrambot</name>
 	<description>this is an java telegram bot MVP </description>
 	<properties>
